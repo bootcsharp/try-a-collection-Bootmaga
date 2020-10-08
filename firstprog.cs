@@ -2,8 +2,8 @@
 
 class A
 {
-  public static void main()
+  public static void wastefunc()
   {
-    int a = 0;
+    int a = 8000;
   }
 };
